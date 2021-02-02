@@ -3,3 +3,10 @@
 0.0.0.0 cloudservices.roku.com
 0.0.0.0 prod.mobile.roku.com
 0.0.0.0 wwwimg.roku.com
+0.0.0.0 customer-feedbacks.web.roku.com
+0.0.0.0 cloudservices.roku.com
+0.0.0.0 austin.logs.roku.com
+0.0.0.0 tyler.logs.roku.com
+0.0.0.0 cooper.logs.roku.com
+0.0.0.0 giga.logs.roku.com
+0.0.0.0 scribe.logs.roku.com
