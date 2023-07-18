@@ -1,0 +1,12 @@
+127.0.0.1 amoeba.web.roku.com
+127.0.0.1 assets.sr.roku.com
+127.0.0.1 cloudservices.roku.com
+127.0.0.1 prod.mobile.roku.com
+127.0.0.1 wwwimg.roku.com
+127.0.0.1 customer-feedbacks.web.roku.com
+127.0.0.1 cloudservices.roku.com
+127.0.0.1 austin.logs.roku.com
+127.0.0.1 tyler.logs.roku.com
+127.0.0.1 cooper.logs.roku.com
+127.0.0.1 giga.logs.roku.com
+127.0.0.1 scribe.logs.roku.com
