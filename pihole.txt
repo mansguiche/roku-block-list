@@ -10,3 +10,8 @@
 0.0.0.0 cooper.logs.roku.com
 0.0.0.0 giga.logs.roku.com
 0.0.0.0 scribe.logs.roku.com
+0.0.0.0 track.sr.roku.com
+0.0.0.0 p.ads.roku.com
+0.0.0.0 bif.sr.roku.com
+0.0.0.0 traces.sr.roku.com
+0.0.0.0 amarillo.sb.roku.com
