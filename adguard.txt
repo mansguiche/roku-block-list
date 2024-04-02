@@ -10,3 +10,8 @@
 127.0.0.1 cooper.logs.roku.com
 127.0.0.1 giga.logs.roku.com
 127.0.0.1 scribe.logs.roku.com
+127.0.0.1 track.sr.roku.com
+127.0.0.1 p.ads.roku.com
+127.0.0.1 bif.sr.roku.com
+127.0.0.1 traces.sr.roku.com
+127.0.0.1 amarillo.sb.roku.com
