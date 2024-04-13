@@ -1,3 +1,10 @@
+#Roku
+
+127.0.0.1  localhost
+::1  localhost
+
+
+127.0.0.1 *.logs.roku.com
 127.0.0.1 amoeba.web.roku.com
 127.0.0.1 assets.sr.roku.com
 127.0.0.1 cloudservices.roku.com
